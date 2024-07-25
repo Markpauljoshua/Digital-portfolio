@@ -39,7 +39,7 @@
         <div class="three2">
             <img src="https://tse3.mm.bing.net/th?id=OIP.DgZE1Pt1HMUTUjTcUMRBlQHaE1&pid=Api&P=0&h=180" alt=""><br>
             <h1>Aliquam et iaculius sapien</h1>
-            <p>Lorem ipsum dolor sit amet.<br>Lorem ipsum dolor sit amet.<br>lorem5</p>
+            <p>Lorem ipsum dolor sit amet.<br>Lorem ipsum dolor is sit amet.<br>lorem5</p>
             <button>LEARN MORE</button>
         </div>
         <div class="three3">
