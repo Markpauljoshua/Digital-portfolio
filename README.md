@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -14,7 +13,6 @@
         <div class="onez">
             <h1>BLOOM</h1>
         </div>
-        
         <div class="one1"><a href="https://chatgpt.com/?oai-dm=1">HOME</a></div>
         <div class="one2"><a href="https://www.threads.net/@hell__boyzz">ABOUT US</a></div>
         <div class="one3"><a href="https://support.google.com/answer/2451065?hl=en">SERVICES</a></div>
@@ -22,7 +20,6 @@
         <div class="one5"><a href="https://www.instagram.com/hell__boyzz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">CONTACT US</a></div>
     </header>
     <section class="two">
-        
         <h1>Lorem ipsum dolor sit amet</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat sint voluptatum corrupti consequuntur error tempora.</p>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur cum facilis, ex distinctio inventore dolorem.</p>
@@ -65,9 +62,7 @@
                 <p>vesbuliyum povanur placement</p><br>
                 <h5>Aliquam et iaculius sapien</h5>
                 <p>vesbuliyum povanur placement</p><br>
-                
             </div>
-            
         </div>
         <div class="nine">
             <h1>About</h1>
